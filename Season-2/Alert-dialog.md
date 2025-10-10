@@ -1,3 +1,7 @@
+## Alert-dialog
+
+```java
+
  new AlertDialog.Builder(MainActivity.this)
                 .setTitle("Conformation message")
                 .setMessage("Are you sure ?")

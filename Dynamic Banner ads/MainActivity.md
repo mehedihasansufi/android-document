@@ -1,4 +1,6 @@
+## Dynamic Banner Ads Java code
 
+```java
 
   AdView adView;
 

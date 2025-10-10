@@ -1,9 +1,9 @@
- 
- //Declaration of the text to Speach
+# Text to Speach
 
- 
- //Initialization
- 
+ Declaration of the text to Speach
+
+ ```java
+  //Initialization
  textToSpeech = new TextToSpeech(MainActivity.this, new TextToSpeech.OnInitListener() {
             @Override
             public void onInit(int status) {
@@ -13,4 +13,3 @@
 
 
          textToSpeech.speak(""+edit_text.getText().toString(),TextToSpeech.QUEUE_FLUSH,null,null);
-
