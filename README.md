@@ -2,7 +2,7 @@
 
 - Dynamic Banner ads
 - Interstitial ads
-  <br>/<br/><br/>
+  <br/><br/><br/>
 - Season 2
   - Alert-dialog
   - Audio-file
