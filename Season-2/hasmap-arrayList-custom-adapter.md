@@ -13,8 +13,9 @@
 
 ListView listView;
 
-ArrayList<HashMap<String,String>> arrayList=new ArrayList<>();
+
 HashMap<String,String> hashMap;
+ArrayList<HashMap<String,String>> arrayList=new ArrayList<>();
 
 // Under oncreate function
 
